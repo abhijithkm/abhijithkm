@@ -115,6 +115,15 @@ const abhijith = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhijithkm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abhijithkm/abhijithkm/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abhijithkm/abhijithkm/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/abhijithkm/abhijithkm/output/github-snake.svg"/>
+</picture>
+</div>
 
 <!-- ============================ 10. WORK EXPERIENCE ============================ -->
 ## 💼 Work Experience
