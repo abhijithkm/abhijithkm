@@ -219,6 +219,7 @@ const abhijith = {
 ☁️  AWS Deep-Dive    → Athena, DynamoDB design, Secrets Manager workflows
 ```
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 <br>
 
