@@ -218,7 +218,8 @@ const abhijith = {
 🔗 Distributed Sys  → CQRS at scale, eventual consistency, caching strategies
 ☁️  AWS Deep-Dive    → Athena, DynamoDB design, Secrets Manager workflows
 ```
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <br>
 
 <!-- ============================ FOOTER WAVE ============================ -->
