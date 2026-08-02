@@ -22,6 +22,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: abhijithkm
+          GH_USERNAME: abhijithkm
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
