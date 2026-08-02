@@ -99,11 +99,6 @@ const abhijith = {
   </a>
 </div>
 
-<!-- ============================ 6b. METRICS PANEL ============================ -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/abhijithkm/abhijithkm/main/github-metrics.svg"/>
-</div>
-
 <!-- ============================ 7. STREAK STATS ============================ -->
 <div align="center">
   <a href="https://github.com/abhijithkm">
